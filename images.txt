@@ -8,6 +8,12 @@
 ####配置images
 #secretflow/secretflow-anolis8:latest
 #secretflow/secretflow-lite-anolis8:latest
-apache/nifi:latest
-apache/nifi:1.8.0
+#apache/nifi:latest
+quay.io/debezium/zookeeper:3.1
+quay.io/debezium/kafka:3.1
+quay.io/debezium/example-mysql:3.1
+quay.io/debezium/example-postgres:3.1
+mcr.microsoft.com/mssql/server:2019-latest
+quay.io/debezium/example-mongodb:3.1
+quay.io/debezium/connect:3.1
 
