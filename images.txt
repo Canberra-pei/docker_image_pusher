@@ -47,5 +47,5 @@
 
 
 ##starrocks
-docker pull starrocks/allin1-ubuntu:3.4-latest
-docker pull starrocks/artifacts-ubuntu:3.4.0-rc01
+starrocks/allin1-ubuntu:3.4-latest
+starrocks/artifacts-ubuntu:3.4.0-rc01
